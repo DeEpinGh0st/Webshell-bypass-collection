@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aab211e3-5726-42ee-9d50-8a4cbe935e93" name="Default Changelist" comment="add anony function scripts for php7">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aab211e3-5726-42ee-9d50-8a4cbe935e93" name="Default Changelist" comment="add anony function scripts for php7" />
+    <list id="9fd7a1cc-61e1-4174-a4d7-f8ecf0d840df" name="add anony function scripts for php7" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,12 +45,13 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="aab211e3-5726-42ee-9d50-8a4cbe935e93" name="Default Changelist" comment="" />
+      <changelist id="9fd7a1cc-61e1-4174-a4d7-f8ecf0d840df" name="add anony function scripts for php7" comment="" />
       <created>1583743396968</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583743396968</updated>
       <workItem from="1583743404207" duration="1781000" />
-      <workItem from="1584667904552" duration="1092000" />
+      <workItem from="1584667904552" duration="1357000" />
     </task>
     <task id="LOCAL-00001" summary="add anony function scripts for php7">
       <created>1584668718182</created>

